@@ -1,4 +1,4 @@
-# Music Player <img src="screenShots/music.png" alt="MusicPlayer" style="vertical-align: baseline; width: 30px; height: 30px;"/>
+# Music Player <img src="ScreenShots/music.png" alt="MusicPlayer" style="vertical-align: baseline; width: 30px; height: 30px;"/>
 
 🎉 Elevate Your Music Experience 🎶
 
@@ -6,26 +6,19 @@ Step into a music player that's not just about listening but about creating your
 
 ## ScreenShots 
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <img src="screenShots/1.jpg" width="80%" />
-    </td>
-    <td align="center" width="20%">
-      <img src="screenShots/2.jpg" width="80%" />
-    </td>
-    <td align="center" width="20%">
-      <img src="screenShots/3.jpg" width="80%" />
-    </td>
-      <td align="center" width="20%">
-      <img src="screenShots/4.jpg" width="80%" />
-    </td>
-      <td align="center" width="20%">
-      <img src="screenShots/5.jpg" width="80%" />
-    </td>
-    
-  </tr>
-</table>
+<p float="left">
+  <div style="position: relative; width: 25%; padding-top: 56.25%; overflow: hidden;">
+  <img src="ScreenShots/1.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;" />
+</div>
+  <div style="position: relative; width: 25%; padding-top: 56.25%; overflow: hidden;">
+  <img src="ScreenShots/3.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;" />
+</div>
+  <div style="position: relative; width: 25%; padding-top: 56.25%; overflow: hidden;">
+  <img src="ScreenShots/2.png" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;" />
+</div>
+</p>
+
+
 <!-- <p float="left">
   <img src="screenShots/1.jpg" width="20%" />
   <img src="screenShots/2.jpg" width="20%" />
