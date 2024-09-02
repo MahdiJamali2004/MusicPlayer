@@ -19,18 +19,6 @@ Step into a music player that's not just about listening but about creating your
 </p>
 
 
-<!-- <p float="left">
-  <img src="screenShots/1.jpg" width="20%" />
-  <img src="screenShots/2.jpg" width="20%" />
-  <img src="screenShots/3.jpg" width="20%" />
-  <img src="screenShots/4.jpg" width="20%" />
- <img src="screenShots/5.jpg" width="20%" />
-</p> -->
 
- ## Contributing
 
-  Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
 
-  ## License
-
-  This project is licensed under the MIT License.
